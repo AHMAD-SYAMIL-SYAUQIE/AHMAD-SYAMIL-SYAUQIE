@@ -119,7 +119,7 @@ const syamil = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-AHMAD--SYAMIL--SYAUQIE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AHMAD-SYAMIL-SYAUQIE)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-your.email%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmad.syamil.syauqie.tik24@stu.pnj.ac.id)
+[![Email](https://img.shields.io/badge/Email-ahmad.syamil.syauqie.tik24@stu.pnj.ac.id-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmad.syamil.syauqie.tik24@stu.pnj.ac.id)
 
 </div>
 
